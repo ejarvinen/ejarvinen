@@ -32,10 +32,6 @@
 
 ---
 
-## :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ejarvinen&theme=dark&background=000000)](https://git.io/streak-stats)
-
 ## :dizzy: Here's some of my work that I'm most proud of so far :
 
 ### Minishell
