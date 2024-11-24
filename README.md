@@ -34,8 +34,8 @@
 
 ## :dizzy: Here's some of my work that I'm most proud of so far :
 
-### Minishell
-A mini shell written in C. This is the product of 3 months deep dive into how Bash works. This shell implements the Bash syntax including quoting, commands, expansions, redirections as well as some built-in features. It's built around GNU readline. And it's stylishly pink :sparkling_heart:. You can check out the source code [here](https://github.com/staskine/42Minishell).
+### [Minishell](https://github.com/staskine/42Minishell)
+A mini shell written in C. This is the product of 3 months deep dive into how Bash works. This shell implements the Bash syntax including quoting, commands, expansions, redirections as well as some built-in features. It's built around GNU readline. And it's stylishly pink.
 
-### Libft
-My own re-coded version of the C Standard Library (naturally written in C) with a few additional functions and some singly linked list tools. The C Standard Library equivalents are designed to behave just like the original functions or as closely to them as possible. This project is designed to be expanded with the Standard Library re-code equivalents of [printf](https://github.com/ejarvinen/42Ft_printf) and [getline](https://github.com/ejarvinen/42Get_next_line) functions. You can check the source code [here](https://github.com/ejarvinen/42Libft).
+### [Libft](https://github.com/ejarvinen/42Libft)
+My own re-coded version of the C Standard Library (naturally written in C) with a few additional functions and some singly linked list tools. The C Standard Library equivalents are designed to behave just like the original functions or as closely to them as possible. This project is designed to be expanded with the Standard Library re-code equivalents of [printf](https://github.com/ejarvinen/42Ft_printf) and [getline](https://github.com/ejarvinen/42Get_next_line) functions.
