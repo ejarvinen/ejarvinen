@@ -34,7 +34,7 @@
 
 ## :dizzy: Here's some of my work that I'm most proud of so far :
 
-### [Minishell](https://github.com/staskine/42Minishell)
+### [Minishell](https://github.com/ejarvinen/42Minishell)
 A mini shell written in C. This is the product of 3 months deep dive into how Bash works. This shell implements the Bash syntax including quoting, commands, expansions, redirections as well as some built-in features. It's built around GNU readline. And it's stylishly pink.
 
 ### [Libft](https://github.com/ejarvinen/42Libft)
