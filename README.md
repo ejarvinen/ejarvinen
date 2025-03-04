@@ -37,5 +37,5 @@
 ### [Minishell](https://github.com/ejarvinen/42Minishell)
 A mini shell written in C. This is the product of 3 months deep dive into how Bash works. This shell implements the Bash syntax including quoting, commands, expansions, redirections as well as some built-in features. It's built around GNU readline. And it's stylishly pink.
 
-### [Libft](https://github.com/ejarvinen/42Libft)
-My own re-coded version of the C Standard Library (naturally written in C) with a few additional functions and some singly linked list tools. The C Standard Library equivalents are designed to behave just like the original functions or as closely to them as possible. This project is designed to be expanded with the Standard Library re-code equivalents of [printf](https://github.com/ejarvinen/42Ft_printf) and [getline](https://github.com/ejarvinen/42Get_next_line) functions.
+### [ft_irc](https://github.com/ejarvinen/42Ft_irc)
+A custom IRC server written in C++. This server follows the official IRC protocol in it's implementations that include joining channels, sending private messages and moderating channels as a channel operator.
