@@ -11,9 +11,9 @@
 
 ## :ribbon: About me :
 
-- :apple: Software Engineering trainee in 5G
-- :woman_technologist: Working on finishing 42 school curriculum and exploring tools and technologies beyond C & C++
-- :penguin: On my free time I like to install and play with different Linux distros
+- :apple: Software Engineer in 5G/6G
+- :woman_technologist: 42 school alumni exploring tools and technologies beyond C & C++
+- :penguin: I like to play with different Linux distros
 - :fast_forward: Find out more and connect with me: [![Linkedin Badge](https://img.shields.io/badge/-ejarvine-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ejarvine/)
 
 ---
